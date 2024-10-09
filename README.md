@@ -5,7 +5,8 @@ To share my experience so far with the Incubator Hub
 ## DATA STRUCTURE:This can be structure Dataset, Semi-structure Dataset and Unstructured data set.
 #### STRUCTURE DATASET: Means the data is in table formate and is ready to be use for analysis
 #### SEMI-STRUCTURE DATASET: Means the data is in Javascript form with pairs
-#### UNSTRUCTURE DATASET: Means the data needs to undergone restructuring to make it ready to be use for analysis. This can be done by a process called for example
+#### UNSTRUCTURE DATASET: Means the data needs to undergone restructuring to make it ready to be use for analysis.Screenshot_20241009_103328_Samsung
+This can be done by a process called for example
 ETL; EXtract, Transform and Load
 -  Extract data means connecting to the data source so as to pull out data
 - Transform data means removing or adding to your data to make it to be in a form ready for analysis.
